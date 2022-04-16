@@ -2,8 +2,8 @@
 My own tautology calculator implementation.
 
 A sample statements:
-((b --> a) <-> ((! a) --> (! b)))
 
+((b --> a) <-> ((! a) --> (! b)))
 ((y &  a)   -  ->(c |c))
 
 In order for a statement to be evaluated correctly please provide every statement with both brackets '()' right before as well as after and arguments such as b or A,
