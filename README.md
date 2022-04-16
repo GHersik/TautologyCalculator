@@ -1,7 +1,7 @@
 # TautologyCalculator
 My own tautology calculator implementation.
 
-A sample statements:
+A sample statement:
 
 ((b --> a) <-> ((! a) --> (! b)))
 
