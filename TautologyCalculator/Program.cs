@@ -8,7 +8,7 @@ namespace TautologyCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Proszę podać równanie:");
+            Console.WriteLine("Please provide statement to evaluate:");
             var finalData = new StringBuilder();
 
             while (true)
@@ -36,7 +36,7 @@ namespace TautologyCalculator
                 finalData.AppendLine();
             }
 
-            Console.WriteLine("Wynik równania:");
+            Console.WriteLine("Result of a statement:");
             Console.Write(finalData);
         }     
     }
