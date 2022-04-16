@@ -9,7 +9,7 @@ In order for a statement to be evaluated correctly please provide every statemen
 a statement can contain another statement in it and so a statement can be an argument as well.
 
 there are 5 possible operations:
-negation !, requires only one argument,
+negation ! (requires only one argument),
 conjunction &
 disjunction |
 implication -->
